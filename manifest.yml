@@ -1,0 +1,6 @@
+applications:
+- name: pal-tracker1
+  path: build/libs/pal-tracker1.jar
+  random-route: true
+  env:
+    WELCOME_MESSAGE: Hello from Cloud Foundry
